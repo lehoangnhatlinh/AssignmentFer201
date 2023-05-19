@@ -1,0 +1,24 @@
+{
+  "name": "assignmentfer201",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winnie862/AssignmentFer201.git"
+  },
+  "author": "winnie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winnie862/AssignmentFer201/issues"
+  },
+  "homepage": "https://github.com/winnie862/AssignmentFer201#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

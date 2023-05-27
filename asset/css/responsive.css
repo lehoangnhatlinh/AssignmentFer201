@@ -43,10 +43,7 @@
     margin-left:15px;
   }
   .col-6 {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 50%;
-    flex: 0 0 100%;
-    max-width: 100%;
+    Reserve Table
 }
 
   .form-row {
